@@ -1,0 +1,5 @@
+mailchimp3
+datetime
+simple_salesforce
+simple_salesforce_wrapper
+boto3
